@@ -3,8 +3,8 @@
 ## 👋 About Me
 Hello! I'm Allanah, a passionate data analyst with knowledge in SQL and Power BI. I love turning raw data into actionable insights and creating visually compelling dashboards. With a solid background in database management and data visualization, I aim to solve complex business problems through data-driven decision-making.
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 [Email](mailto:your-email@example.com)
+- 🌐 [LinkedIn](www.linkedin.com/in/arqoo)
+- 📧 [Email](allanahquintino@hotmail.com)
 
 ## 🛠️ Skills
 - **SQL**: Data extraction, transformation, and loading (ETL), complex queries, optimization.
